@@ -1,12 +1,15 @@
 ﻿# DLS-CSB Student Organizations Data Analysis
 
-A comprehensive machine learning analysis of student organizations and academic performance at De La Salle-College of Saint Benilde (DLS-CSB).
+A machine learning analysis of student organizations and academic performance at De La Salle-College of Saint Benilde (DLS-CSB).
 
 ## Dataset Overview
 
 This study analyzes 5,000 students across 35 diverse academic programs at DLS-CSB, tracking 27 variables related to academics, organizational involvement, and graduation readiness. The dataset maintains balanced demographics with 51% female and 49% male students, primarily from Metro Manila areas with 92% Filipino nationality.
 
-## Key Findings
+## Dataset Code Generation
+Dataset Access: benilde_student_organizations_dataset_5000.csv
+
+## Findings
 
 ### Student Demographics
 The analysis reveals nearly equal gender representation (51.2% female, 48.8% male) across the student body. Age progression follows expected academic patterns, with 1st year students ranging from 17-20 years old progressing to 5th year students aged 21-26. Academic performance demonstrates normal distribution with GWA (General Weighted Average) centered around 2.5-3.0, indicating typical performance across the student population.
@@ -37,9 +40,9 @@ The KNN model demonstrates better overall performance and prediction reliability
 ## Detailed Visualization Analysis
 
 ### Gender Distribution
-![Gender Distribution](visualization/student-org-gender-distribution-1.png)
+![Gender Distribution](visualization/student-org-gender-distribution-2.png)
 
-The gender distribution visualization confirms balanced representation across the student body, with 51.2% female students and 48.8% male students participating in organizational activities.
+The gender distribution chart confirms balanced representation across the student body, with 51.2% female students and 48.8% male students participating in organizational activities.
 
 ### Organizational Type Participation
 ![Organization Type Distribution](visualization/student-org-org-type-3.png)
@@ -144,3 +147,4 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+

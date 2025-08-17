@@ -84,32 +84,6 @@ Direct comparison shows KNN (87.0%) outperforming Decision Tree (86.53%) in over
 
 Confusion matrix analysis reveals KNN's superior performance with fewer classification errors. KNN shows 600 correct predictions for class 0 with 189 false positives, and 705 correct predictions for class 1 with only 6 false negatives, compared to Decision Tree's 597 and 701 correct predictions respectively, with 192 false positives and 10 false negatives.
 
-## Repository Structure
-
-```
-STUDENT-ORG-ML/
-├── dataset/
-│   ├── benilde_student_organizations_dataset_5000.csv
-│   └── benilde-student-org-dataset-code.ipynb
-├── visualization/
-│   ├── student-org-age-distribution-5.png
-│   ├── student-org-attendance-rate-6.png
-│   ├── student-org-confusion-matrix-13.png
-│   ├── student-org-decision-tree-10.png
-│   ├── student-org-feature-importance-8.png
-│   ├── student-org-gender-distribution-1.png
-│   ├── student-org-gender-distribution-2.png
-│   ├── student-org-gwa-distribution-4.png
-│   ├── student-org-knn-11.png
-│   ├── student-org-model-perf-comparison-12.png
-│   ├── student-org-model-performance-9.png
-│   ├── student-org-org-type-3.png
-│   └── student-org-top10-7.png
-├── salvador-student-org-data-analysis.html
-├── salvador-student-org-data-analysis.ipynb
-└── README.md
-```
-
 ## Getting Started
 
 ### Prerequisites
@@ -147,5 +121,6 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+
 
 

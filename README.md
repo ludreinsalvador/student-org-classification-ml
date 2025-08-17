@@ -37,7 +37,7 @@ Two machine learning algorithms were implemented and compared for predicting stu
 
 The KNN model demonstrates better overall performance and prediction reliability, though both algorithms achieve strong accuracy rates in the 86-87% range.
 
-## Detailed Visualization Analysis
+## Visualization Analysis
 
 ### Gender Distribution
 ![Gender Distribution](visualization/student-org-gender-distribution-2.png)
@@ -147,4 +147,5 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+
 

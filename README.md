@@ -6,9 +6,6 @@ A machine learning analysis of student organizations and academic performance at
 
 This study analyzes 5,000 students across 35 diverse academic programs at DLS-CSB, tracking 27 variables related to academics, organizational involvement, and graduation readiness. The dataset maintains balanced demographics with 51% female and 49% male students, primarily from Metro Manila areas with 92% Filipino nationality.
 
-## Dataset Code Generation
-Dataset Access: benilde_student_organizations_dataset_5000.csv
-
 ## Findings
 
 ### Student Demographics
@@ -102,7 +99,8 @@ This repository includes visualizations covering demographics, academic performa
 
 ## Dataset Code Generation
 
-Dataset for DLS-CSB's List of Accredited Student Organizations and Recognized Student Groups
+- Dataset for DLS-CSB's List of Accredited Student Organizations and Recognized Student Groups
+- Dataset Access: benilde_student_organizations_dataset_5000.csv
 
 **References Used:**
 - De La Salle-College of Saint Benilde. (n.d.). *De La Salle-College of Saint Benilde Center for Student Life List of Accredited Student Organizations and Recognized Student Groups Academic Year 2024-2025*. https://www.benilde.edu.ph/wp-content/uploads/2024/11/List-of-Accredited-Student-Org-and-Recognized-Student-Groups-AY-24-25.docx.pdf
@@ -113,6 +111,15 @@ Dataset for DLS-CSB's List of Accredited Student Organizations and Recognized St
 
 Contributions are welcome through additional analysis approaches, model performance improvements, new visualization development, and documentation enhancement.
 
+## Conclusion
+This analysis of 5,000 DLS-CSB students shows that time spent in organizations is the strongest factor in predicting active membership. Both machine learning models performed well, with KNN achieving 87.0% accuracy and Decision Tree reaching 86.53%.
+
+Key findings reveal that Academic Clusters and Athletic Teams attract the most students, while gender participation remains balanced. The normal distribution of student grades suggests typical academic performance across the population.
+
+The project provides practical insights for improving student engagement and helps institutions understand what drives organizational involvement. The dataset and methods used here can guide similar studies at other schools looking to better support their student communities.
+
+Future work could track students over time, examine specific skills gained through organizations, and explore how college involvement affects career success after graduation.
+
 ## License
 
 This project is for educational and research purposes.
@@ -121,6 +128,7 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+
 
 
 

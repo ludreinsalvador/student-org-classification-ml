@@ -91,7 +91,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 ### Running the Analysis
 1. Clone the repository
 2. Open `salvador-student-org-data-analysis.ipynb` in Jupyter Notebook
-3. Run all cells to reproduce the analysis and visualizations
+3. Run all cells
 
 ## Visualizations
 
@@ -128,6 +128,7 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+
 
 
 

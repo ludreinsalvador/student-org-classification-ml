@@ -102,7 +102,7 @@ This repository includes visualizations covering demographics, academic performa
 - Dataset for DLS-CSB's List of Accredited Student Organizations and Recognized Student Groups
 - Dataset Access: benilde_student_organizations_dataset_5000.csv
 
-**References Used:**
+**List of References:**
 - De La Salle-College of Saint Benilde. (n.d.). *De La Salle-College of Saint Benilde Center for Student Life List of Accredited Student Organizations and Recognized Student Groups Academic Year 2024-2025*. https://www.benilde.edu.ph/wp-content/uploads/2024/11/List-of-Accredited-Student-Org-and-Recognized-Student-Groups-AY-24-25.docx.pdf
 - De La Salle-College of Saint Benilde. (2019). *LIST OF DEGREE PROGRAMS AND DEGREE CODES*. https://apps1.benilde.edu.ph/Apply/docs/Degree%20Programs%20and%20Degree%20Codes.pdf
 - DLSCSB Official. (2021). *List of Programs*. Benilde. https://archive.benilde.edu.ph/admissions/list-of-programs/
@@ -128,6 +128,7 @@ This project is for educational and research purposes.
 
 
 *Analysis conducted for De La Salle-College of Saint Benilde student organization research.*
+
 
 
 
